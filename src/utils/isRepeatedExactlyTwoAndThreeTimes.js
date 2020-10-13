@@ -22,7 +22,6 @@ function countAllOccurrences(charArray) {
  */
 
 function isRepeatedExactlyTwoAndThreeTimes(charArray) {
-
   if (charArray.length != 5) {
     return false;
   }
