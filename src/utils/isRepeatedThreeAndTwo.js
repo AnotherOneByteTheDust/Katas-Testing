@@ -21,7 +21,7 @@ function countAllOccurrences(charArray) {
  * @param {array} charArray An array that contains five chars
  */
 
-function isRepeatedExactlyTwoAndThreeTimes(charArray) {
+function isRepeatedThreeAndTwo(charArray) {
   if (charArray.length != 5) {
     return false;
   }
@@ -31,4 +31,4 @@ function isRepeatedExactlyTwoAndThreeTimes(charArray) {
   return allOccurrences.includes(2) && allOccurrences.includes(3);
 }
 
-module.exports = isRepeatedExactlyTwoAndThreeTimes;
+module.exports = isRepeatedThreeAndTwo;
