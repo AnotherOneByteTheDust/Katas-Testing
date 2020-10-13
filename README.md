@@ -1,4 +1,8 @@
-# JavaScript Boilerplate
+## Katas-Testing
+
+This is a repository created from a template to practice testing and TDD with some Katas.
+
+## JavaScript Boilerplate
 
 Suitable for Express Applications.
 
