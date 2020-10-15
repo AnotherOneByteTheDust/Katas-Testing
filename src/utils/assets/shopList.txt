@@ -1,0 +1,12 @@
+bread, 1, 2
+12-pack of eggs, 1, 2
+milk (1L), 4, 8
+coca cola (33cl), 10, 2
+chicken clubs (frozen), 1, 4
+carrots, 4, 1
+butter (500 g), 3, 6
+cheese (1Kg), 1, 7
+orange juice (1L), 2, 3
+bottled water (1.5L), 5, 5
+sirloin (100g), 1, 30
+tomatoes, 12, 3
